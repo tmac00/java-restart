@@ -6,5 +6,5 @@ public class intech {
 
     private String address;
 
-
+    private String aaa;
 }
